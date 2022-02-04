@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-<!--## About Me-->
+## About Me
 
 Hi! Welcome to my website.
 
