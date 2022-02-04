@@ -73,7 +73,7 @@ Abstract: This paper studies the relationship between trade openness and economi
 - **Tripathi, J. S.** (2016). **Trade-growth nexus: a study of G20 countries.** IOSR J Econ Finance, 7(3), 60-70.  [[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)].
 - Desai, N., **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)].
 
-### Work-in-progress
+### Works in Progress
 - The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework
 - The Impact of Fractional Trading on the Price Levels and Orderbook Dynamics
 
@@ -82,7 +82,7 @@ Abstract: This paper studies the relationship between trade openness and economi
 - BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
 
 ### Other Selected Projects
-- **Predicting COVID-19 Cases Using Google Community Mobility Report**, 2020
+- **Predicting COVID-19 Cases Using Google Community Mobility Report**, 2020 <br>
 Abstract— The recent global outbreak of Coronavirus disease (COVID-19) has affected many countries worldwide. To tackle this pandemic, governments worldwide have implemented a range of stringent policies, including stay-at-home 'lockdowns'; school and workplace closures; cancellation of events and public gatherings; and restrictions on public transports. These steps were taken to slow the spread of the virus by enforcing physical distance between people. In this study, I am using data mining techniques such as regression and neural networks to predict the number of COVID-19 new cases in Arizona, California, and New Jersey-based on the metrics available in the Community mobility report. The metrics in Google Community Mobility Report might help predict COVID-19 numbers and analyze the pandemic. Utilizing data mining techniques on this data can provide us a better insight into the COVID-19 outbreak in the states and help manage the health crisis in the states and countries worldwide.
-- **Performance Analysis and Estimation of Production Function for Indian Automobile Sector**, 2015
+- **Performance Analysis and Estimation of Production Function for Indian Automobile Sector**, 2015 <br>
 Abstract: This project involved examining of the productivity performance using growth accounting approach and further an econometric study was done using Gretl in order to understand the nature and degree of substitutability of the production function for Indian automobile sector.
