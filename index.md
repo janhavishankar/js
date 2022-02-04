@@ -5,14 +5,18 @@ layout: homepage
 ## About Me
 
 Hi! Welcome to my website.
-I am a PhD candidate in Economics at Fordham University, specializing in International and Financial Economics. 
+
+I am a PhD candidate in Economics at Fordham University, specializing in International and Financial Economics.
+
 My research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Growth and Development. 
+
 I am also interested in Economic and Business consulting. Before joining the PhD program, I worked in the business consulting industry for 2+ years. I worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
+
 I hold an MSc degree in Economics from the School of Economics, Symbiosis International University, and a BSc degree in Physics with Mathematics and Statistics from Fergusson College, University of Pune. 
 
 Email- jtripathi@fordham.edu
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
@@ -53,4 +57,7 @@ Email- jtripathi@fordham.edu
 ## Services
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Journal Reviewers: T-PAMI, IJCV. -->
+
+## Research
+
