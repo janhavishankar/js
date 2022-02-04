@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! Welcome to my website.
 
-I am a PhD candidate in Economics at Fordham University, specializing in International and Financial Economics. I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
+I am a PhD candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
 
 My research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development. 
 
@@ -69,10 +69,10 @@ Abstract: This paper studies the relationship between trade openness and economi
 - Desai, N., **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)].
 
 ### Work-in-progress
-- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors Behavior under the Prospect Theory Framework**
-- **The Impact of Fractional Trading on the Price Levels and Orderbook Dynamics**
+- The Impact of Fractional Trading on Risk Aversion for Non-professional Investors Behavior under the Prospect Theory Framework
+- The Impact of Fractional Trading on the Price Levels and Orderbook Dynamics
 
 ### Thesis
-- MSc Thesis: **TRADE-GROWTH NEXUS: A STUDY OF G-20 COUNTRIES**
-- BSc Thesis: **Magneto-Hydrodynamics and Dynamo Theory**
+- MSc Thesis: Trade-Growth Nexus: A Study of G-20 Countries
+- BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
 
