@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! Welcome to my website.
 
-I am a PhD candidate in Economics at Fordham University, advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
+I am a PhD candidate in Economics at Fordham University, specializing in International and Financial Economics. I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
 
 My fields are International and Financial Economics. My research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development. 
 
