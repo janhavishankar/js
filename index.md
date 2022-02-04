@@ -73,6 +73,6 @@ Abstract: This paper studies the relationship between trade openness and economi
 - The Impact of Fractional Trading on the Price Levels and Orderbook Dynamics
 
 ### Thesis
-- MSc Thesis: Trade-Growth Nexus: A Study of G-20 Countries
+- MSc Thesis: Trade - Growth Nexus: A Study of G-20 Countries
 - BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
 
