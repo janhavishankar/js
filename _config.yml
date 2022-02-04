@@ -1,15 +1,15 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Janhavi Shankar Tripathi
+position: PhD Candidate in Economics
+affiliation: Fordham University
+email: jtripathi@fordha.edu
 keywords: minimal academic
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/jst.png
 google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/fordham.png
+favicon_dark: ./assets/img/fordham.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
