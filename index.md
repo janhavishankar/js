@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-## About Me
-
 Hi! Welcome to my website.
 
 I am a PhD candidate in Economics at Fordham University, specializing in International and Financial Economics.
