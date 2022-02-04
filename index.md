@@ -59,7 +59,7 @@ Email- jtripathi@fordham.edu
 -
 
 ### Publications
--
+- Tripathi, J. S. (2016). **Trade-growth nexus: a study of G20 countries.** IOSR J Econ Finance, 7(3), 60-70.  [[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)]
 
 ### Work-in-progress
 -
