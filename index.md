@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- ## About Me -->
 
-Hi! Welcome to my website.
+Hi! Welcome to my personal webpage.
 
 I am a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
 
