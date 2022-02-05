@@ -16,7 +16,7 @@ I hold an MSc in Economics from the School of Economics, Symbiosis International
 
 Email- jtripathi@fordham.edu
 
-[[CV](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)].
+## Curriculum Vitae [[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)].
 
 <!-- ## Research Interests
 
