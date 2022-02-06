@@ -81,3 +81,10 @@ Abstract: This paper studies the relationship between trade openness and economi
 - MSc Thesis: Trade-Growth Nexus: A Study of G20 Countries
 - BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
 
+
+---
+layout: research
+---
+
+Working Papers
+
