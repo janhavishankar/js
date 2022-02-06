@@ -58,8 +58,6 @@ Email- jtripathi@fordham.edu
 - Journal Reviewers: T-PAMI, IJCV. -->
 
 ---
-layout: research
----
 
 ## Research
 
