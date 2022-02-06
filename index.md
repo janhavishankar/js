@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-##About Me
+## About Me
 
 I am a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
 
@@ -58,7 +58,7 @@ Email- jtripathi@fordham.edu
 - Journal Reviewers: T-PAMI, IJCV. -->
 
 ---
-layout: research
+
 ---
 
 ## Research
