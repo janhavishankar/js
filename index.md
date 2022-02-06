@@ -2,9 +2,7 @@
 layout: homepage
 ---
 
-<!-- ## About Me -->
-
-Hi! Welcome to my personal webpage.
+##About Me
 
 I am a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
 
@@ -59,6 +57,10 @@ Email- jtripathi@fordham.edu
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV. -->
 
+---
+layout: research
+---
+
 ## Research
 
 ### Working Papers
@@ -81,10 +83,4 @@ Abstract: This paper studies the relationship between trade openness and economi
 - MSc Thesis: Trade-Growth Nexus: A Study of G20 Countries
 - BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
 
-
----
-layout: research
----
-
-Working Papers
 
