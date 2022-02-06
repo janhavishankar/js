@@ -59,8 +59,6 @@ Email- jtripathi@fordham.edu
 
 ---
 
----
-
 ## Research
 
 ### Working Papers
